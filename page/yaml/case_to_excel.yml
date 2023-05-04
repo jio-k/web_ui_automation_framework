@@ -1,0 +1,3 @@
+test_connect_camera:
+  case_id: Cam_LiveBroadcast_001
+  check: False

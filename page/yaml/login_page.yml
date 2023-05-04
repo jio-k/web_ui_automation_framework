@@ -1,0 +1,4 @@
+locator:
+    user_name:
+      by: xpath
+      location: ''

@@ -1,0 +1,18 @@
+server: test # test \ official
+url: ''
+username: ''
+password: ''
+# 启动的浏览器
+browser: '' # Chrome\ Edge \ Firefox
+WebDriverWait: 4
+implicitly_wait: 10
+screenshot_level: debug
+print_level: debug
+excel_object: ''
+mac1: ''
+sub_mac1: ''
+sub_mac2: ''
+mac1_name: ''
+sub1_name: ''
+sub2_name: ''
+
